@@ -1,0 +1,11 @@
+comando para inicializar Nextjs
+-npx create-next-app@latest
+
+-npm run dev
+
+hash password
+npm i bcrypt mongodb mongoose next-auth
+-mongodb e uma base de dados nao relaciional
+
+-Mongoose é uma biblioteca de programação orientada a objetos JavaScript 
+que cria uma conexão entre o MongoDB e o ambiente de tempo de execução JavaScript Node.js.
